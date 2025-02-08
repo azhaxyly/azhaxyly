@@ -5,7 +5,7 @@
 
 I'm studying at ENU in Astana and attending the Alem School course, learning Go. This repository contains my projects and exercises in the Go programming language, as well as other work I do during my studies.
 
-![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white&link=https://t.me/hmlssdeus) ![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:a19732805@gmail.com)
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/hmlssdeus) [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:a19732805@gmail.com)
 
 
 
