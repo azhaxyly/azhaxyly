@@ -22,8 +22,6 @@ I'm studying at ENU in Astana and attending the Alem School course, learning Go.
 ## Skills
 
 - Go
-- Cybersecurity
 - Software Development
-- Git
 
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=azhaxyly&show_icons=true&theme=gotham" alt="azhaxyly" />
